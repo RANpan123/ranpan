@@ -5,3 +5,5 @@
 3.SpringBoot+阿里云OSS 存储服务
 
 4.spring boot 定时任务
+
+5.使用SpringBoot+Dubbo 搭建一个分布式服务
